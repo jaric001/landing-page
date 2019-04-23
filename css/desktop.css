@@ -1,0 +1,93 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Comfortaa', cursive;
+}
+
+h1{
+  color: white;
+}
+
+
+h2{
+  color: white;
+}
+
+h5{
+color: white;
+}
+
+.jumbotron{
+  background-color: #1E3843!important;
+  background-image: url(../img/image1.jpg);
+  background-position: center center;
+  background-size: cover;
+}
+
+.card-text{
+  font-weight: 100!important;
+}
+
+.d-block{
+  height: 750px!important;
+  background-position: center center!important;
+}
+
+header{
+  background-color: transparent!important;
+}
+
+p{
+  color: white;
+}
+
+body{
+  background-color: #294A5B;
+  justify-content: center;
+}
+.card{
+  background-color: transparent;
+  border: transparent;
+}
+.bg-nav {
+  background-color: #172930!important;
+  opacity: 0.5;
+}
+
+
+
+.btn-primary{
+  background-color: #00897B;
+  margin-top: 1rem;
+  border-radius: 3rem;
+}
+
+.newsletter {
+  height: 500px;
+  padding: 200px;
+}
+
+.button{
+background-color: #00897B;
+color: white;
+
+}
+
+.jumbotron{
+  height: 600px;
+  padding: 210px;
+}
+
+.Benefits{
+  padding: 20px;
+}
+
+.footer {
+  height: 60px!important;
+  background-color: #0B1B23;
+  color: white;
+  padding: 10px;
+  font-size: 30px;
+}
